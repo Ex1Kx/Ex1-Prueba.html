@@ -9,7 +9,7 @@ body{
 }
 
 #contenedor{
-    border: 0px solid red;
+    border: 0px solid black;
     height: 600px;
     display: grid;
     width: 40%;
